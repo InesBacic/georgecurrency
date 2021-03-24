@@ -1,0 +1,17 @@
+.searchBar{
+    background-color: #0A3E6B;
+    color: white;
+    height: 50px;
+    padding-top: 20px;
+    text-align: center;
+    top: 60px;
+    position: relative;
+}
+
+.searchBar input[type="text"] {
+    text-align: center;
+    border: 3px solid #ccc;
+    border-radius: 1px;
+    box-sizing: border-box;
+    font-size: 14px;
+}

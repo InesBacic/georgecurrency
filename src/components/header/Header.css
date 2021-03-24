@@ -1,0 +1,15 @@
+.header{
+    height: 60px;
+    background-color: #bce4fa;
+    text-align: left;
+    color: #0A3E6B;
+    font-weight: 600;
+    font-size: 18px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.headerTitle {
+    padding: 15px 0px 0px 15px;
+}

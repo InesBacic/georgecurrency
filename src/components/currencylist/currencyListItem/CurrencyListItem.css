@@ -1,0 +1,32 @@
+.currencyListItem{
+    height: 80px;
+    margin: 10px 0px 10px 0px;
+    border: 1px solid #0A3E6B;
+    box-shadow: 0 10px 10px rgb(0 0 0 / 15%)
+}
+
+.flag, .nameI18n{
+    width: 25%;
+    float: left;
+    padding-top: 10px
+}
+
+.currency{
+    width: 20%;
+    float: left;
+    padding-top: 10px
+}
+
+.exchangeRateBuy, .exchangeRateSell{
+    width: 15%;
+    float: left;
+    padding-top: 10px
+}
+
+.nameI18n{
+    text-align: left;
+}
+
+.flag{
+    margin-top: 6px;
+}
